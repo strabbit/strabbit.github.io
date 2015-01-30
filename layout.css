@@ -67,10 +67,8 @@ line-height:28px;
 }
 
 #bar ul {
-width: 720px;
+width: 900px;
 margin: 0 auto;
-border-left: 120px solid rgba(0,0,0,0);
-border-right: 42px solid rgba(0,0,0,0);
 }
 
 #bar ul li {
@@ -82,7 +80,7 @@ margin-right: 16px;
 	font-size:14px;
 	color: #141823;
 	padding: 16px 20px;
-	margin: 20px auto 0;
+	margin: 28px auto 0;
 	min-height:100%;
 	background: #fff;
 	width: 720px;
