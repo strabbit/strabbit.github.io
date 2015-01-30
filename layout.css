@@ -54,6 +54,9 @@ body {
 	height: 100%;
 }
 #main {
+	font-family: Helvetica, Arial, 'lucida grande',tahoma,verdana,arial,sans-serif;
+	font-size:0px;
+	color: #141823;
 	padding: 16px 20px;
 	margin: 0 auto;
 	min-height:100%;
