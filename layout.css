@@ -49,12 +49,14 @@ table {
 
 body {
 	background: #007BA7;
+	height: 100%;
 }
 #main {
+	padding: 16px 20px;
 	margin: 0 auto;
 	min-height:100%;
 	background: #fff;
-	width: 600px;
+	width: 720px;
 	border-left: 42px solid #DE3163;
 	border-right: 42px solid #DE3163;
 }
