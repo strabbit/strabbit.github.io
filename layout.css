@@ -66,6 +66,18 @@ font-size: 16px;
 line-height:20px;
 }
 
+#bar ul {
+width: 720px;
+margin: 0 auto;
+border-left: 120px solid rgba(0,0,0,0);
+border-right: 42px solid rgba(0,0,0,0);
+}
+
+#bar ul li {
+display: inline-block;
+margin-right: 16px;
+}
+
 #main {
 	font-size:14px;
 	color: #141823;
